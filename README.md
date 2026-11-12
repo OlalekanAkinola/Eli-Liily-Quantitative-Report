@@ -80,4 +80,4 @@ This is a personal Python and financial-data analysis exercise. It does not cons
 
 More of my work
 - GitHub
-- Lemm Financials
+- Olalekan Akinola 
